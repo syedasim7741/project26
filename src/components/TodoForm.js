@@ -53,6 +53,7 @@ export const TodoForm = ({ addTodo }) => {
           <Button type="submit" variant="contained">
             Add Task
           </Button>
+          <Button variant="contained">add task</Button>
         </Grid>
       </Grid>
     </form>
